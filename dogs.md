@@ -5,6 +5,7 @@
 4. German Shepherd 
 5. Policiy 
 6. Wolfie 
-
+7. Cats 
+8. another dog 
 
 
