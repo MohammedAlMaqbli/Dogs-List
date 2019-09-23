@@ -4,7 +4,7 @@
 3. Husky
 4. German Shepherd 
 5. Policiy 
-6. Wolfie 
+6. A dif dog  
 7. Cats 
 8. another dog 
 9. More dogs 
