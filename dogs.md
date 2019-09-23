@@ -1,4 +1,4 @@
-#list of Dogs:
+#My list of Dogs:
 1. Putbull 
 2. Chihuahua 
 3. Husky
